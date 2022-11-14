@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'fff_zrx'
-"""
-高斯混合模型聚类
-"""
+
 import math
 import copy
 from collections import defaultdict
